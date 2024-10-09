@@ -15,6 +15,7 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import org.jetbrains.annotations.VisibleForTesting
 import java.text.NumberFormat
 import kotlin.math.ceil
 
@@ -123,7 +124,8 @@ fun EditTextBox(
 }
 
 // Function to calculate the tip amount based on inputs
-fun calculatetip(bill: Double, tipP: Double = 15.0, roundState: Boolean): String {
+@VisibleForTesting
+internal fun calculatetip(bill: Double, tipP: Double = 15.0, roundState: Boolean): String {
     var tip = (bill * tipP / 100) // Calculate tip based on bill and percentage
     if (roundState) {
         tip = ceil(tip) // Round up the tip if roundState is true
@@ -133,6 +135,7 @@ fun calculatetip(bill: Double, tipP: Double = 15.0, roundState: Boolean): String
 }
 
 // Composable for the round tip switch
+
 @Composable
 fun RoundTip(
     roundState: Boolean,
