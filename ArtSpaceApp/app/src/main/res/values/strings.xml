@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="wallpaper4k">4K Wallpaper</string>
+    <string name="author1">Nitesh</string>
+    <string name="author2">Sumit</string>
+    <string name="author3">Nehal</string>
+    <string name="author4">Nikhil</string>
+    <string name="author5">Sourav</string>
+
+</resources>
