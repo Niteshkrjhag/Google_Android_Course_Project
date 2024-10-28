@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8896f612-4cac-4e38-b7c4-9c75c61b91eb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/java/com/example/androiddevelopercourse/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/java/com/example/androiddevelopercourse/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/java/com/example/androiddevelopercourse/Screen/Screen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/java/com/example/androiddevelopercourse/Screen/Screen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidDeveloperCourse/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tipcounter/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tipcounter/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tipcounter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tipcounter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tipcounter/app/src/main/java/com/example/tipamountcounter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../tipcounter/app/src/main/java/com/example/tipamountcounter/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tipcounter/app/src/main/java/com/example/tipamountcounter/Screen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../tipcounter/app/src/main/java/com/example/tipamountcounter/Screen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/.github/ISSUE_TEMPLATE/add-a-scrollable-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/.github/ISSUE_TEMPLATE/practice--classes-and-collections.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/java/com/example/affirmations/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/java/com/example/affirmations/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/java/com/example/affirmations/model/Affirmation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/java/com/example/affirmations/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/java/com/example/affirmations/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/drawable/image9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleDevProjects/AffermationApp/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/niteshkr.jha/.android/avd/Pixel_6_Pro_API_34.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2o3kp4jV1PSdkAlniL4ggf8S9lJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "android",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/niteshkr.jha/Desktop/AndroidProjectsNow/AffermationApp"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Affirmations.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8896f612-4cac-4e38-b7c4-9c75c61b91eb" name="Changes" comment="" />
+      <created>1730105825413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730105825413</updated>
+    </task>
+    <servers />
+  </component>
+</project>
